@@ -112,4 +112,5 @@ Required GitHub Secrets: `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`, `S3_BUCKE
 **Wiam Krabatou** — Tech Lead & Full Stack Engineer  
 4 years experience · React · Node.js · TypeScript · Docker · AWS
 
-[LinkedIn](https://linkedin.com/in/wiam-krabatou) · wiam.krabatou@email.com
+[LinkedIn](linkedin.com/in/wiam-krabatou-3864b6171) · wiam.krabatou97@gmail.com
+
