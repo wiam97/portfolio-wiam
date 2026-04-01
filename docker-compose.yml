@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  portfolio:
+    build:
+      context: .
+      target: deps        # en dev on utilise l'étape deps, pas le build final
+    volumes:
+      - .:/app            # hot reload : les changements de fichiers sont reflétés
+      - /app/node_modules # on garde les node_modules du container
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=development
+    command: npm run dev
